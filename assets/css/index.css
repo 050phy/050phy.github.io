@@ -189,7 +189,6 @@
         -webkit-flex: 1;
         -ms-flex: 1;
         flex: 1;
-        margin-bottom:64px;
       }
       
       .flex-container.top {
@@ -209,7 +208,6 @@
       
       .hero-image-mask {
         width: 944px;
-        height: 814px;
         margin-right: 12px;
         margin-left: 0px;
       }
@@ -235,7 +233,6 @@
         -webkit-flex: 0 0.5 auto;
         -ms-flex: 0 0.5 auto;
         flex: 0 0.5 auto;
-        background-image: url("https://uploads-ssl.webflow.com/60a0c2dcfb0b5f513fb05555/60a0ce3494e38355380c9914_florian-olivo-Mf23RF8xArY-unsplash.jpg");
         background-position: 0px 0px;
         background-size: auto;
         -o-object-fit: cover;
